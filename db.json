@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "id":1,
+            "name":"Sumeet More",
+            "age":25,
+            "city":"Pune"
+        },
+        {
+            "id":2,
+            "name":"Mahesh",
+            "age":26,
+            "city":"Delhi"
+        },
+        {
+            "id":3,
+            "name":"Nrupul",
+            "age":28,
+            "city":"BLR"
+        }
+    ]
+}
